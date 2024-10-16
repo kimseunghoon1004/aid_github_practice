@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-qwqwq->hello
-main_hello
-=======
-qwqwq->helloooo
->>>>>>> mylocal
+test
